@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      urn: 'urnFromServer',
+      attributes: {
+          key1: 'value1',
+          key2: 'value2'
+      },
+      components: {
+          id: 'asset1'
+      }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
