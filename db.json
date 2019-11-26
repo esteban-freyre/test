@@ -1,13 +1,13 @@
 {
   "assets": [
     {
-      urn: 'urnFromServer',
-      attributes: {
-          key1: 'value1',
-          key2: 'value2'
+      "urn": "urnFromServer",
+      "attributes": {
+          "key1": "value1",
+          "key2": "value"
       },
-      components: {
-          id: 'asset1'
+      "components": {
+          "id": "asset1"
       }
     }
   ],
